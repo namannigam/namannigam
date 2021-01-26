@@ -14,3 +14,6 @@
 
 - जितना मुझे सॉफ़्टवेयर समस्याओं को हल करने में आनंद आता है, मुझे अपने अवकाश पर शतरंज खेलना उतना अधिक पसंद है ।
   ⚡ As much as I enjoy solving software problems, I love [playing chess](https://www.chess.com/member/namannigam) far more at my leisure.
+  
+- मुझे फोर्टीबीट्स और स्टैकऑवरफ्लो के माध्यम से समुदाय के साथ अपने सीखने और अनुभवों को साझा करना पसंद है |
+  📚 When I am in the zone, I love to share my learnings and experiences with the community via [FortyBits](https://fortybits.github.io/) and [StackOverflow](https://stackoverflow.com/users/1746118/naman).
