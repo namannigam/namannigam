@@ -17,3 +17,6 @@
   
 - मुझे FortyBits और StackOverflow के माध्यम से समुदाय के साथ अपने सीखने और अनुभवों को साझा करना पसंद है |
   📚 When I am in the zone, I love to share my learnings and experiences with the community via [FortyBits](https://fortybits.github.io/) and [StackOverflow](https://stackoverflow.com/users/1746118/naman).
+
+- अगर मेरे किसी काम ने आपकी मदद की तो आप मुझे कॉफी खरीद सकते हैं |
+  ☕ If any of my work helped you then you can buy me a coffee at [buymeacoffee/namannigam](https://www.buymeacoffee.com/namannigam).
