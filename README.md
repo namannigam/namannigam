@@ -22,4 +22,4 @@
   ☕ If any of my work helped you then you can buy me a coffee at [buymeacoffee/namannigam](https://www.buymeacoffee.com/namannigam).
 
 - नियोक्ताओं के लिए मेरा पूरा काम प्रोफ़ाइल विवरण यहाँ है |
-  💻 My complete work profile details for employers is at [namannigam.github.io](https://namannigam.github.io/).
+  💻 My complete work details for employers is at [namannigam.github.io/profile](https://namannigam.github.io/assets/profile/namannigam.pdf).
