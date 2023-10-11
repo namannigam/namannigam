@@ -30,3 +30,5 @@
 		<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=namannigam&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namannigam&layout=donut&langs_count=&exclude_repo=fortybits.github.io,namannigam.github.io,namannigam" align = "center"/>
 </p>
+
+ <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namannigam&card_width=495&langs_count=6) -->
