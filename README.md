@@ -23,3 +23,10 @@
 
 - नियोक्ताओं के लिए मेरा पूरा काम प्रोफ़ाइल विवरण यहाँ है |
   💻 My complete work details for employers is at [namannigam.github.io/profile](https://namannigam.github.io/assets/profile/namannigam.pdf).
+
+---
+
+<p align="left">
+		<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=namannigam&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" align = "center"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namannigam&layout=donut&langs_count=&exclude_repo=fortybits.github.io,namannigam.github.io,namannigam" align = "center"/>
+</p>
