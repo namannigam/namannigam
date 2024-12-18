@@ -1,25 +1,20 @@
-### नमस्ते 🙏 Hello 👋
+###  Hello 👋
+🔭 **Currently working on** **Spring Boot** applications with a deep understanding of the **Spring Framework** ecosystem, alongside experience in building backend microservices using **Dropwizard**.
 
-- मैं वर्तमान में ड्रॉपविज़ार्ड से बने बैकएंड माइक्रोसर्विसेज पर काम कर रहा हूं |
-  🔭 I’m currently working on backend microservices based out of [Dropwizard](https://github.com/dropwizard/dropwizard).
+🌱 **Enhancing expertise** in designing and architecting **highly available**, **scalable**, and **resilient systems**, ensuring robust solutions for complex business needs.
 
-- मैं वर्तमान में सीख रहा हूं कि ग्राहकों को अंत से अंत का अंतराफलक कैसे प्रदान किया जाए |
-  🌱 I’m currently learning on how to provide an end to end interface to customers.
+🌟 **Leading development efforts** for key product features and contributing to **system design**—both high-level and low-level—spanning components, patterns, and end-to-end workflows.
 
-- मैं Java-9 और इसके बाद के संस्करण में पेश किए गए Java मॉड्यूल के समर्थन के लिए उन्नति करने की योजना बनाने वाली परियोजनाओं पर सहयोग करना चाहता हूं |
-  👯 I’m looking to collaborate on projects planning to upgrade to support Java modules introduced starting Java-9.
+🚀 **Driving technical initiatives** aligned with organizational goals, with hands-on experience in **containerization (Docker)**, **orchestration (Kubernetes)**, and **cloud deployments (GCP)** to deliver business-critical solutions.
 
-- यदि मेरा कोई साझा कार्य या प्रस्ताव आपके हित में है, तो बेझिझक मेरे ईमेल के माध्यम से पहुंचें ।
-  📫 If any of my shared work or proposals interests you, feel free to reach out via [my email](mailto:namannigam12@gmail.com).
+🛠️ **Building expertise in diverse technologies**, including:
+- **Datastores:** SQL, MongoDB, Elasticsearch, and HBase.
+- **Event Streaming:** Apache Kafka.
+- **Caching:** Redis and Guava.
+- **Distributed Processing:** Storm and Spark.  
 
-- जितना मुझे सॉफ़्टवेयर समस्याओं को हल करने में आनंद आता है, मुझे अपने अवकाश पर शतरंज खेलना उतना अधिक पसंद है ।
-  ⚡ As much as I enjoy solving software problems, I love [playing chess](https://www.chess.com/member/namannigam) far more at my leisure.
-  
-- मुझे FortyBits और StackOverflow के माध्यम से समुदाय के साथ अपने सीखने और अनुभवों को साझा करना पसंद है |
-  📚 When I am in the zone, I love to share my learnings and experiences with the community via [FortyBits](https://fortybits.github.io/) and [StackOverflow](https://stackoverflow.com/users/1746118/naman).
+⚡ **Outside work, enjoy solving software challenges**, with a leisure passion for chess, a game that sharpens both strategy and creativity.
 
-- अगर मेरे किसी काम ने आपकी मदद की तो आप मुझे कॉफी खरीद सकते हैं |
-  ☕ If any of my work helped you then you can buy me a coffee at [buymeacoffee/namannigam](https://www.buymeacoffee.com/namannigam).
+📚 **Sharing knowledge and experiences** with the community through platforms like [FortyBits](https://github.com/fortybits) and [StackOverflow](https://stackoverflow.com/users/1746118/naman).
 
-- नियोक्ताओं के लिए मेरा पूरा काम प्रोफ़ाइल विवरण यहाँ है |
-  💻 My complete work details for employers is at [namannigam.github.io/profile](https://namannigam.github.io/assets/profile/namannigam.pdf).
+💻 **Comprehensive professional profile** available at [namannigam.github.io](https://namannigam.github.io/assets/profile/namannigam.pdf).
