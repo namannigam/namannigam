@@ -1,4 +1,4 @@
-###  Hello 👋
+###  👋 Hello! Here’s a Snapshot of My Journey
 🔭 **Currently working on** **Spring Boot** applications with a deep understanding of the **Spring Framework** ecosystem, alongside experience in building backend microservices using **Dropwizard**.
 
 🌱 **Enhancing expertise** in designing and architecting **highly available**, **scalable**, and **resilient systems**, ensuring robust solutions for complex business needs.
